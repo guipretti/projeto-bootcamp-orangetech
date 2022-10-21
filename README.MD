@@ -1,7 +1,7 @@
-# Olá, seja bem-vindo ao meu livro de Receitas! :chicken:
+# Olá, seja bem-vindo ao meu Repositório destinado ao BootCamp OrangeTech DIO X Banco INTER! :chicken:
 
 
 
 
 
-## Brincadeira! Esse é apenas um teste da plataforma Git e GitHub... Sorry :(
+## O objetivo principal deste repositório é armazenar os códigos desenvolvidos durante o bootcamp como portfólio.
